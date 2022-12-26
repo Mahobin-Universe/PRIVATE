@@ -1,5 +1,8 @@
 # PRIVATE
-https://github.com/THE-BADBOY/PRIVATE.git
+
+
+
+git clone https://github.com/THE-BADBOY/PRIVATE.git
 
 cd PRIVATE
 
